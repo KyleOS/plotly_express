@@ -1,4 +1,5 @@
 {
+  "hideRoot": "True",
   "branch": "master",
   "main": "gallery.ipynb",
   "title": "Plotly Express Examples",
