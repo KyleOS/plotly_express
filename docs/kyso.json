@@ -1,5 +1,6 @@
 {
   "main": "index.html",
+  "title": "Testing title",
   "description": "Test description",
   "tags": "plotly",
   "email": "kyle@kyso.io",

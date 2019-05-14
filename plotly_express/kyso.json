@@ -1,5 +1,6 @@
 {
   "main": "_doc.py",
+  "title": "another title",
   "description": "Test description",
   "tags": "plotly",
   "email": "kyle@kyso.io",

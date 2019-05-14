@@ -1,5 +1,6 @@
 {
   "main": "meta.yaml",
+  "title": "My Title",
   "description": "Test description",
   "tags": "plotly",
   "email": "kyle@kyso.io",
