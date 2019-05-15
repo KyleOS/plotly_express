@@ -1,8 +1,0 @@
-{
-  "main": "meta.yaml",
-  "title": "My Title",
-  "description": "Test description",
-  "tags": "plotly",
-  "email": "kyle@kyso.io",
-  "created_at": "2016-01-03"
-}
