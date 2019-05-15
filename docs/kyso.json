@@ -1,8 +1,0 @@
-{
-  "main": "index.html",
-  "title": "Testing title",
-  "description": "Test description",
-  "tags": "plotly",
-  "email": "kyle@kyso.io",
-  "created_at": "2016-01-01"
-}
